@@ -1,0 +1,31 @@
+6/7/2021 9:57:54 AM
+
+Information for Medical Doctor
+
+How is the Patients Physical Health?
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+How is the Patients Mental Health?
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+How is the Patients Emotional Health?
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+Are their any Memories that the Patient has forgotten?
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+List of Medications the Patient is Taking.
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+Symptoms and Response to Medications.
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.
+
+Information To Tell Patient.
+
+This is some sample text that you can type in this text box. This is an example of a mini paragraph of text that is inside this text box.

@@ -1,0 +1,18 @@
+TextBoxs
+
+UnitConversionBeforeConversionTextBox
+UnitConversionResultTextBox
+TotalStorageBeforeFractionTextBox
+StoragePercentageUnitTextBox
+StoragePercentageResultTextBox
+FileAdderStorageTextBox
+OneFileSizeTextBox
+OneFileSizeUnitTextBox
+FileSizesEnteredRichTextBox
+
+Varibles Assocated with TextBoxs, that need to be passed through.
+
+IntialNumberBeforeCoversion
+IntialNumberWithAbrevationAfterConversion
+
+

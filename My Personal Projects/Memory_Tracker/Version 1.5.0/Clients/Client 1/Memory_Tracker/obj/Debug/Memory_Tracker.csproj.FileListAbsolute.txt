@@ -1,0 +1,51 @@
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\bin\Debug\Memory_Tracker.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\bin\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\bin\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.HelpForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.About_Program.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker\obj\Debug\Memory_Tracker.Message_from_Developer.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.About_Program.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.HelpForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Message_from_Developer.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.About_Program.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.HelpForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Message_from_Developer.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Memory_Tracker(Version 1.5.0)\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\bin\Debug\Memory_Tracker.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.About_Program.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.HelpForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Message_from_Developer.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Memory_Tracker\Version 1.5.0\Clients\Client 1\Memory_Tracker\obj\Debug\Memory_Tracker.pdb

@@ -1,0 +1,21 @@
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\bin\Debug\Storage Calculator.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\bin\Debug\Storage Calculator.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\bin\Debug\Storage Calculator.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage_Calculator.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage_Calculator.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage Calculator.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage Calculator.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\bin\Debug\Storage Calculator.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\bin\Debug\Storage Calculator.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\bin\Debug\Storage Calculator.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage_Calculator.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage_Calculator.Form1.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Storage_Calculator\Storage Calculator\obj\Debug\Storage Calculator.csproj.SuggestedBindingRedirects.cache

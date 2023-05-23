@@ -1,0 +1,24 @@
+Menu ItemsBurgersBig MacMcDoubleCheeseburgerHamburgerSidesApple SlicesFriesCombosFilet-O-Fish MealBig Mac Combo10 piece Chicken McNuggets MealDouble Quarter Pounder with Cheese MealDrinksCoca-ColaSpriteFanta OrangeDr PepperIngredientsBig Mac* Big Mac Bun
+* Beef Patty
+* Lettuce
+* Mac Sauce
+* Cheese
+* Pickles
+* OnionsMcDouble* Beef Patty
+* Regular Bun
+* Cheese
+* Pickles
+* Ketchup
+* Onions
+* MustardCheeseburger* Beef Patty
+* Regular Bun
+* Cheese
+* Pickles
+* Ketchup
+* Onions
+* MustardHamburger* Beef Patty
+* Regular Bun
+* Pickles
+* Ketchup
+* Onions
+* Mustard

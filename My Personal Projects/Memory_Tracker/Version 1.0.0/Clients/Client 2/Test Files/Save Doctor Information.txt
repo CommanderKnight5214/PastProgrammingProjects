@@ -1,0 +1,27 @@
+6/3/2021 8:55:59 PM
+
+Information for Medical Doctor
+
+How is the Patients Physical Health?
+
+1
+
+How is the Patients Mental Health?
+
+1
+
+How is the Patients Emotional Health?
+
+1
+
+Are their any Memories that the Patient has forgotten?
+
+1
+
+List of Medications the Patient is Taking.
+
+1. Zyrtec
+
+Symptoms and Response to Medications.
+
+Medication 1: This medication has improved my sienas due to allegy season. 

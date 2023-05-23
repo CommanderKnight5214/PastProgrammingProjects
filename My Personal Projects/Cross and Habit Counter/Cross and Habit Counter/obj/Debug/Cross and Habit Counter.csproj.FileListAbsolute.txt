@@ -1,0 +1,13 @@
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\bin\Debug\Cross and Habit Counter.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\bin\Debug\Cross and Habit Counter.exe.config
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross and Habit Counter.csproj.AssemblyReference.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross_and_Habit_Counter.AboutForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross_and_Habit_Counter.CandHCounter.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross_and_Habit_Counter.HelpForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross_and_Habit_Counter.Properties.Resources.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross_and_Habit_Counter.ResetProgramForm.resources
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross and Habit Counter.csproj.GenerateResource.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross and Habit Counter.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross and Habit Counter.exe
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\obj\Debug\Cross and Habit Counter.pdb
+D:\GitHub Repository\MyPastProgrammingProjects\My Personal Projects\Cross and Habit Counter\Cross and Habit Counter\bin\Debug\Cross and Habit Counter.pdb

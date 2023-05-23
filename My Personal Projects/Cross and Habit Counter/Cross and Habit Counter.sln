@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross and Habit Counter", "Cross and Habit Counter\Cross and Habit Counter.csproj", "{4661C0A4-5E71-46B9-BCF1-11628B5CFE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4661C0A4-5E71-46B9-BCF1-11628B5CFE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4661C0A4-5E71-46B9-BCF1-11628B5CFE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4661C0A4-5E71-46B9-BCF1-11628B5CFE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4661C0A4-5E71-46B9-BCF1-11628B5CFE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D28DE9-A44F-40CF-BDCC-E63F69424BF9}
+	EndGlobalSection
+EndGlobal
