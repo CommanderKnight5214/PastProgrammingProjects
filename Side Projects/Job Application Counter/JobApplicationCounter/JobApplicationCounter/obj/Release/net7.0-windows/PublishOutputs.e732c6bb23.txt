@@ -1,0 +1,5 @@
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\JobApplicationCounter.exe
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\JobApplicationCounter.dll
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\JobApplicationCounter.deps.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\JobApplicationCounter.runtimeconfig.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\JobApplicationCounter.pdb

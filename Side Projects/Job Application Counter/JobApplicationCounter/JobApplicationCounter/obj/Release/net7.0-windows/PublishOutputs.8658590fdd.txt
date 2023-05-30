@@ -1,0 +1,5 @@
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Release\net7.0-windows\app.publish\JobApplicationCounter.exe
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Release\net7.0-windows\app.publish\JobApplicationCounter.dll
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Release\net7.0-windows\app.publish\JobApplicationCounter.deps.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Release\net7.0-windows\app.publish\JobApplicationCounter.runtimeconfig.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Release\net7.0-windows\app.publish\JobApplicationCounter.pdb

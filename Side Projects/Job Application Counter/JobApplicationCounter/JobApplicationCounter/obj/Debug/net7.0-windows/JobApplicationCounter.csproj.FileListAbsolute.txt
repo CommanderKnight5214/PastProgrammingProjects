@@ -1,0 +1,17 @@
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Debug\net7.0-windows\JobApplicationCounter.exe
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Debug\net7.0-windows\JobApplicationCounter.deps.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Debug\net7.0-windows\JobApplicationCounter.runtimeconfig.json
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Debug\net7.0-windows\JobApplicationCounter.dll
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\bin\Debug\net7.0-windows\JobApplicationCounter.pdb
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.csproj.AssemblyReference.cache
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.Form1.resources
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.csproj.GenerateResource.cache
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.AssemblyInfoInputs.cache
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.AssemblyInfo.cs
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.dll
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\refint\JobApplicationCounter.dll
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.pdb
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\JobApplicationCounter.genruntimeconfig.cache
+D:\GitHub Repository\PastProgrammingProjects\Side Projects\Job Application Counter\JobApplicationCounter\JobApplicationCounter\obj\Debug\net7.0-windows\ref\JobApplicationCounter.dll
