@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             numericUpDown1 = new NumericUpDown();
+            label2 = new Label();
+            textBox1 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
@@ -53,11 +55,33 @@
             numericUpDown1.Size = new Size(53, 32);
             numericUpDown1.TabIndex = 1;
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label2.Location = new Point(12, 136);
+            label2.Name = "label2";
+            label2.Size = new Size(450, 21);
+            label2.TabIndex = 2;
+            label2.Text = "Companies Who Will be Contacting My List of References.";
+            // 
+            // textBox1
+            // 
+            textBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            textBox1.Location = new Point(12, 174);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.ScrollBars = ScrollBars.Vertical;
+            textBox1.Size = new Size(450, 132);
+            textBox1.TabIndex = 3;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(504, 130);
+            ClientSize = new Size(504, 318);
+            Controls.Add(textBox1);
+            Controls.Add(label2);
             Controls.Add(numericUpDown1);
             Controls.Add(label1);
             Icon = (Icon)resources.GetObject("$this.Icon");
@@ -72,5 +96,7 @@
 
         private Label label1;
         private NumericUpDown numericUpDown1;
+        private Label label2;
+        private TextBox textBox1;
     }
 }
